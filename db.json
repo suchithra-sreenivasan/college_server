@@ -1,0 +1,84 @@
+{
+  "faculty_details": [
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_CJC7hGwQkWdh4FZwtoFWWkCC_9oOzLBNg&s",
+      "name": "Diya S Dani",
+      "designation": "Asst. Proff ",
+      "department": "Computer Science",
+      "experience": "4",
+      "phone": "9987452352",
+      "mail": "diya123@gmail.com",
+      "id": 1
+    },
+    {
+      "photo": "https://media.istockphoto.com/id/1332478677/photo/portrait-of-casual-young-black-woman-dancing-brown-wall.jpg?s=612x612&w=0&k=20&c=sjTUrrMxs-j91SaZUSi0SgOTR1ynIwjwV0ha4UcHOiM=",
+      "name": "Treesa Thomas",
+      "designation": "staff",
+      "department": "Computer Science",
+      "experience": "4",
+      "phone": "9987452352",
+      "mail": "treesa123@gmail.com",
+      "id": 2
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSXEWka1YWW7IUtdUHiI5ipHeQm0eD3oc5561LZS9gur5dS3ohbVb-iye9OTDcydpU7c&usqp=CAU",
+      "name": "Megha Gijo",
+      "designation": "staff",
+      "department": "Computer Science",
+      "experience": "4",
+      "phone": "9987452352",
+      "mail": "megha23@gmail.com",
+      "id": 3
+    },
+    {
+      "photo": "https://img.freepik.com/free-photo/closeup-smiling-young-beautiful-indian-woman_1262-2261.jpg",
+      "name": "Suchithra PS",
+      "designation": "proff",
+      "department": "ComputerScience",
+      "experience": "1",
+      "phone": "7654321098",
+      "mail": "suchithra@gmail.com",
+      "id": 4
+    },
+    {
+      "photo": "https://t4.ftcdn.net/jpg/03/17/72/03/360_F_317720355_sn87YEwDHHGMMYYmxiS3o3Hinkt1T3sB.jpg",
+      "name": "Naviya VI",
+      "designation": "asst. proff",
+      "department": "Social Work",
+      "experience": "4",
+      "phone": "9807645321",
+      "mail": "naviya@gmail.com",
+      "id": 5
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOeZjZWEr4oFmJhILQQgTy7-WUX9BmRrAAFw&s",
+      "name": "Jeevan J",
+      "designation": "staff",
+      "department": "Social Work",
+      "experience": "5",
+      "phone": "9807653467",
+      "mail": "jeevan@gmail.com",
+      "id": 6
+    },
+    {
+      "photo": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
+      "name": "Thejas B",
+      "designation": "staff",
+      "department": "Multi-Media",
+      "experience": "1",
+      "phone": "980765323",
+      "mail": "thejasb@gmail.com",
+      "id": 7
+    },
+    {
+      "photo": "https://img.freepik.com/free-photo/confident-handsome-guy-posing-against-white-wall_176420-32936.jpg?w=360",
+      "name": "Albin Thomas",
+      "designation": "staff",
+      "department": "Social Work",
+      "experience": "2",
+      "phone": "9908765483",
+      "mail": "albin123@gmail.com",
+      "id": 8
+    }
+  ]
+}
