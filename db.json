@@ -83,14 +83,19 @@
   ],
   "department": [
     {
-      "department": "Computer Science Department",
+      "department": "Mathematics Department",
       "staffs": [],
       "id": 1
     },
     {
-      "department": "Commerce Department",
+      "department": "Computer science Department",
       "staffs": [],
       "id": 2
+    },
+    {
+      "department": "Social Work Department",
+      "staffs": [],
+      "id": 3
     }
   ]
 }
