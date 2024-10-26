@@ -27,3 +27,5 @@ CollegeServer.use(router)
 CollegeServer.listen(PORT, ()=>{
     console.log(`server running successfully at port number  ${PORT}`);
 })
+
+
