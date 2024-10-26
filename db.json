@@ -13,7 +13,7 @@
     {
       "photo": "https://media.istockphoto.com/id/1332478677/photo/portrait-of-casual-young-black-woman-dancing-brown-wall.jpg?s=612x612&w=0&k=20&c=sjTUrrMxs-j91SaZUSi0SgOTR1ynIwjwV0ha4UcHOiM=",
       "name": "Treesa Thomas",
-      "designation": "staff",
+      "designation": "Asst. Proff",
       "department": "Computer Science",
       "experience": "4",
       "phone": "9987452352",
@@ -79,6 +79,18 @@
       "phone": "9908765483",
       "mail": "albin123@gmail.com",
       "id": 8
+    }
+  ],
+  "department": [
+    {
+      "department": "Computer Science Department",
+      "staffs": [],
+      "id": 1
+    },
+    {
+      "department": "Commerce Department",
+      "staffs": [],
+      "id": 2
     }
   ]
 }
