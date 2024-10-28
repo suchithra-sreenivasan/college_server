@@ -1,118 +1,282 @@
 {
   "faculty_details": [
     {
-      "photo": "https://img.freepik.com/free-photo/closeup-smiling-young-beautiful-indian-woman_1262-2261.jpg",
-      "name": "Suchithra PS",
-      "designation": "Asst. Proff",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOeZjZWEr4oFmJhILQQgTy7-WUX9BmRrAAFw&s",
+      "name": "Ishaan S",
+      "designation": "Assistant Professor",
       "department": "Computer Science",
-      "experience": "1",
-      "phone": "7654321098",
-      "mail": "suchithra@gmail.com",
-      "id": 3
-    },
-    {
-      "photo": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
-      "name": "Robin",
-      "designation": "Asst Proffessor",
-      "department": "Mathematics Department",
-      "experience": "1",
-      "phone": "9087654321",
-      "mail": "robin@gmail.com",
-      "id": 4
+      "experience": "4",
+      "phone": "9980756478",
+      "mail": "ishaan123@gmail.com",
+      "id": 1
     },
     {
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_CJC7hGwQkWdh4FZwtoFWWkCC_9oOzLBNg&s",
-      "name": "Diya S Dani",
-      "designation": "Asst Proffessor",
-      "department": "Social work Department",
+      "name": "Nila Jeevan",
+      "designation": "Associate Professor",
+      "department": "Social Work",
+      "experience": "5",
+      "phone": "9987065743",
+      "mail": "nila123@gmail.com",
+      "id": 2
+    },
+    {
+      "photo": "https://img.freepik.com/premium-photo/business-woman-black-suit-white-background_564692-59303.jpg?semt=ais_hybrid",
+      "name": "Charu M",
+      "designation": "Professor",
+      "department": "Mathematics",
+      "experience": "2",
+      "phone": "7889064536",
+      "mail": "charu123@gmail.com",
+      "id": 3
+    },
+    {
+      "photo": "https://img.freepik.com/premium-photo/portrt-pensive-handsome-indian-man-with-arms-crossed-looking-camera-street_1346048-4389.jpg?semt=ais_hybrid",
+      "name": "Varun Rajesh",
+      "designation": "Assistant Professor",
+      "department": "Chemistry and Biochemistry",
       "experience": "4",
-      "phone": "9987452352",
-      "mail": "diya123@gmail.com",
+      "phone": "9978674535",
+      "mail": "varun123@gmail.com",
+      "id": 4
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kd0RVQHcVXAeo1Qad758wZZ0mINGgwFmnneMYNMM33-LjcLkq6iNyTbAiCqUl9GeNeI&usqp=CAU",
+      "name": "Anuradha Tej",
+      "designation": "Associate Professor",
+      "department": "History",
+      "experience": "3",
+      "phone": "8675463728",
+      "mail": "anuradha123@gmail.com",
       "id": 5
+    },
+    {
+      "photo": "https://media.istockphoto.com/id/1434212178/photo/middle-eastern-lady-using-laptop-working-online-sitting-in-office.webp?b=1&s=612x612&w=0&k=20&c=-a7kN9ndCDdQEvklOFxJbmcvWOJ9sQQ8ZxvE64AsDEE=",
+      "name": "Olivia Thomas",
+      "designation": "Professor",
+      "department": "Computer Science",
+      "experience": "5",
+      "phone": "9087965849",
+      "mail": "olivia123@gmail.com",
+      "id": 6
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScawrE_dbKXnBHLYGrQl-hQU3SB6r5NNAd4g&s",
+      "name": "Charles Noah",
+      "designation": "Professor",
+      "department": "Mathematics",
+      "experience": "3",
+      "phone": "9876904738",
+      "mail": "charles123@gmail.com",
+      "id": 7
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmjNAAzVVizf2AqpQXbi8ecDMYXfQXjF6rw&s",
+      "name": "Lucas Henry",
+      "designation": "Assistant Professor",
+      "department": "Social Work",
+      "experience": "5",
+      "phone": "9802351342",
+      "mail": "lucas123@gmail.com",
+      "id": 8
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExThKonFRjgL-5jVaa2XAGaOtm2dIZ0GVqw&s",
+      "name": "Lydia H",
+      "designation": "Professor",
+      "department": "Chemistry and Biochemistry",
+      "experience": "2",
+      "phone": "9908756452",
+      "mail": "lydia123@gmail.com",
+      "id": 9
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlmvzjD4ArLatl_jpaOkqrotmULAA1nAo5KbeokVXSeGDqseq-i6b-o23PtLhuySE9LX4&usqp=CAU",
+      "name": "Clara Liam",
+      "designation": "Associate Professor",
+      "department": "History",
+      "experience": "3",
+      "phone": "9876053421",
+      "mail": "clara123@gmail.com",
+      "id": 10
     }
   ],
   "department": [
     {
-      "department": "Mathematics Department",
+      "department": "Computer Science",
       "staffs": [
         {
-          "photo": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
-          "name": "Robin",
-          "designation": "Asst Proffessor",
-          "department": "Mathematics Department",
-          "experience": "1",
-          "phone": "9087654321",
-          "mail": "robin@gmail.com",
-          "id": 4
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOeZjZWEr4oFmJhILQQgTy7-WUX9BmRrAAFw&s",
+          "name": "Ishaan S",
+          "designation": "Assistant Professor",
+          "department": "Computer Science",
+          "experience": "4",
+          "phone": "9980756478",
+          "mail": "ishaan123@gmail.com",
+          "id": 1
+        },
+        {
+          "photo": "https://media.istockphoto.com/id/1434212178/photo/middle-eastern-lady-using-laptop-working-online-sitting-in-office.webp?b=1&s=612x612&w=0&k=20&c=-a7kN9ndCDdQEvklOFxJbmcvWOJ9sQQ8ZxvE64AsDEE=",
+          "name": "Olivia Thomas",
+          "designation": "Professor",
+          "department": "Computer Science",
+          "experience": "5",
+          "phone": "9087965849",
+          "mail": "olivia123@gmail.com",
+          "id": 6
         }
       ],
       "id": 1
     },
     {
-      "department": "Computer science Department",
+      "department": "Mathematics",
       "staffs": [
         {
-          "photo": "https://img.freepik.com/free-photo/closeup-smiling-young-beautiful-indian-woman_1262-2261.jpg",
-          "name": "Suchithra PS",
-          "designation": "Asst. Proff",
-          "department": "Computer Science",
-          "experience": "1",
-          "phone": "7654321098",
-          "mail": "suchithra@gmail.com",
+          "photo": "https://img.freepik.com/premium-photo/business-woman-black-suit-white-background_564692-59303.jpg?semt=ais_hybrid",
+          "name": "Charu M",
+          "designation": "Professor",
+          "department": "Mathematics",
+          "experience": "2",
+          "phone": "7889064536",
+          "mail": "charu123@gmail.com",
           "id": 3
         },
         {
-          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSXEWka1YWW7IUtdUHiI5ipHeQm0eD3oc5561LZS9gur5dS3ohbVb-iye9OTDcydpU7c&usqp=CAU",
-          "name": "Megha Gijo",
-          "designation": "Associate Proffessor",
-          "department": "Computer Science",
-          "experience": "4",
-          "phone": "9987452352",
-          "mail": "megha23@gmail.com",
-          "id": 2
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScawrE_dbKXnBHLYGrQl-hQU3SB6r5NNAd4g&s",
+          "name": "Charles Noah",
+          "designation": "Professor",
+          "department": "Mathematics",
+          "experience": "3",
+          "phone": "9876904738",
+          "mail": "charles123@gmail.com",
+          "id": 7
         }
       ],
       "id": 2
     },
     {
-      "department": "Social Work Department",
+      "department": "Chemistry and Biochemistry",
       "staffs": [
         {
-          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_CJC7hGwQkWdh4FZwtoFWWkCC_9oOzLBNg&s",
-          "name": "Diya S Dani",
-          "designation": "Asst Proffessor",
-          "department": "Social work Department",
+          "photo": "https://img.freepik.com/premium-photo/portrt-pensive-handsome-indian-man-with-arms-crossed-looking-camera-street_1346048-4389.jpg?semt=ais_hybrid",
+          "name": "Varun Rajesh",
+          "designation": "Assistant Professor",
+          "department": "Chemistry and Biochemistry",
           "experience": "4",
-          "phone": "9987452352",
-          "mail": "diya123@gmail.com",
-          "id": 5
+          "phone": "9978674535",
+          "mail": "varun123@gmail.com",
+          "id": 4
+        },
+        {
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExThKonFRjgL-5jVaa2XAGaOtm2dIZ0GVqw&s",
+          "name": "Lydia H",
+          "designation": "Professor",
+          "department": "Chemistry and Biochemistry",
+          "experience": "2",
+          "phone": "9908756452",
+          "mail": "lydia123@gmail.com",
+          "id": 9
         }
       ],
       "id": 3
+    },
+    {
+      "department": "Social Work",
+      "staffs": [
+        {
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_CJC7hGwQkWdh4FZwtoFWWkCC_9oOzLBNg&s",
+          "name": "Nila Jeevan",
+          "designation": "Associate Professor",
+          "department": "Social Work",
+          "experience": "5",
+          "phone": "9987065743",
+          "mail": "nila123@gmail.com",
+          "id": 2
+        },
+        {
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmjNAAzVVizf2AqpQXbi8ecDMYXfQXjF6rw&s",
+          "name": "Lucas Henry",
+          "designation": "Assistant Professor",
+          "department": "Social Work",
+          "experience": "5",
+          "phone": "9802351342",
+          "mail": "lucas123@gmail.com",
+          "id": 8
+        }
+      ],
+      "id": 4
+    },
+    {
+      "department": "History",
+      "staffs": [
+        {
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kd0RVQHcVXAeo1Qad758wZZ0mINGgwFmnneMYNMM33-LjcLkq6iNyTbAiCqUl9GeNeI&usqp=CAU",
+          "name": "Anuradha Tej",
+          "designation": "Associate Professor",
+          "department": "History",
+          "experience": "3",
+          "phone": "8675463728",
+          "mail": "anuradha123@gmail.com",
+          "id": 5
+        },
+        {
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlmvzjD4ArLatl_jpaOkqrotmULAA1nAo5KbeokVXSeGDqseq-i6b-o23PtLhuySE9LX4&usqp=CAU",
+          "name": "Clara Liam",
+          "designation": "Associate Professor",
+          "department": "History",
+          "experience": "3",
+          "phone": "9876053421",
+          "mail": "clara123@gmail.com",
+          "id": 10
+        }
+      ],
+      "id": 5
     }
   ],
   "resigned": [
     {
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSXEWka1YWW7IUtdUHiI5ipHeQm0eD3oc5561LZS9gur5dS3ohbVb-iye9OTDcydpU7c&usqp=CAU",
-      "name": "Megha Gijo",
-      "designation": "Associate Proffessor",
-      "department": "Computer Science",
-      "experiance": "4",
-      "phone": "9987452352",
-      "mail": "megha23@gmail.com",
-      "resDate": "27/10/2024",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZuOS4tGi9BP6LrYhGkvnw5rIFj6Dy4KPsg&s",
+      "name": "Allison J",
+      "designation": "Professor",
+      "department": "History",
+      "experiance": "1",
+      "phone": "8967584935",
+      "mail": "allison123@gmail.com",
+      "resDate": "28/10/2024",
       "id": 1
     },
     {
-      "photo": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
-      "name": "James",
-      "designation": "Asst. Proff",
-      "department": "Mathematics Department",
+      "photo": "https://img.freepik.com/premium-photo/young-smart-indian-businesswoman-smiling-face-standing-blur-background-busy-office-generative-ai-aig20_31965-139908.jpg?w=360",
+      "name": "Sarah Elijah",
+      "designation": "Assistant Professor",
+      "department": "Chemistry and Biochemistry",
       "experiance": "4",
-      "phone": "7867654567",
-      "mail": "james@gmail.com",
-      "resDate": "27/10/2024",
+      "phone": "8965743245",
+      "mail": "sarah123@gmail.com",
+      "resDate": "28/10/2024",
       "id": 2
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3GLMzjGhWii2ROqzic0Rj90K5ioBmFEdKQ&s",
+      "name": "Benjamin Levi",
+      "designation": "Professor",
+      "department": "Mathematics",
+      "experiance": "1",
+      "phone": "8967564738",
+      "mail": "benjamin123@gmail.com",
+      "resDate": "28/10/2024",
+      "id": 3
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9EzhYiGC6sBih2dfJvuJmCEuzuBcRCYGEi6qHxzSf2_Bsz0H29mMDQsyiYfvjCPKwuhg&usqp=CAU",
+      "name": "Jack Ezra",
+      "designation": "Professor",
+      "department": "Computer Science",
+      "experiance": "1",
+      "phone": "8976859475",
+      "mail": "jack123@gmail.com",
+      "resDate": "28/10/2024",
+      "id": 4
     }
   ]
 }
